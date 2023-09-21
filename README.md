@@ -1,16 +1,18 @@
 
 # Hotel Dashboard using QlikView
 
-![Dashboard Screenshot](https://github.com/sevdaimany/Hotel-Dashboard/blob/master/Screenshot_1.png)
 
+This repository contains a hotel dashboard created using QlikView. The dashboard provides valuable insights and visualizations for hotel management, allowing them to make data-driven decisions.
+
+
+![Dashboard Screenshot](https://github.com/sevdaimany/Hotel-Dashboard/blob/master/Screenshot_1.png)
 
 ![Dashboard Screenshot](https://github.com/sevdaimany/Hotel-Dashboard/blob/master/Screenshot_2.png)
 
 ![Dashboard Screenshot](https://github.com/sevdaimany/Hotel-Dashboard/blob/master/Screenshot_3.png)
 
-## Overview
 
-This repository contains a hotel dashboard created using QlikView. The dashboard provides valuable insights and visualizations for hotel management, allowing them to make data-driven decisions.
+
 
 ## Features
 
