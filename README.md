@@ -40,7 +40,7 @@ Follow these steps to get started with the hotel dashboard:
 *  Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/qlikview-hotel-dashboard.git
+   git clone https://github.com/sevdaimany/Hotel-Dashboard.git
    ```
 
 *  Open the QlikView project file (hotel_dashboard.qvw) in QlikView Desktop.
