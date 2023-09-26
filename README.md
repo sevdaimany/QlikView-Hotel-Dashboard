@@ -5,11 +5,11 @@
 This repository contains a hotel dashboard created using QlikView. The dashboard provides valuable insights and visualizations for hotel management, allowing them to make data-driven decisions.
 
 
-![Dashboard Screenshot](https://github.com/sevdaimany/Hotel-Dashboard/blob/master/Screenshot_1.png)
+![Dashboard Screenshot](https://github.com/sevdaimany/QlikView-Hotel-Dashboard/blob/master/Screenshot_1.png)
 
-![Dashboard Screenshot](https://github.com/sevdaimany/Hotel-Dashboard/blob/master/Screenshot_2.png)
+![Dashboard Screenshot](https://github.com/sevdaimany/QlikView-Hotel-Dashboard/blob/master/Screenshot_2.png)
 
-![Dashboard Screenshot](https://github.com/sevdaimany/Hotel-Dashboard/blob/master/Screenshot_3.png)
+![Dashboard Screenshot](https://github.com/sevdaimany/QlikView-Hotel-Dashboard/blob/master/Screenshot_3.png)
 
 
 
@@ -40,7 +40,7 @@ Follow these steps to get started with the hotel dashboard:
 *  Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/sevdaimany/Hotel-Dashboard.git
+   git clone https://github.com/sevdaimany/QlikView-Hotel-Dashboard.git
    ```
 
 *  Open the QlikView project file (hotel_dashboard.qvw) in QlikView Desktop.
